@@ -1,1 +1,1 @@
-This project examines Art of Cinema journal political rhetoric from 1980 till 1995.
+This project examines Art of Cinema journal political rhetoric from 1980 till 1995.  My questions are (1) how the frequency distribution of words evolved and (2) did data is positive, negative or neutral changed over the period of cultural history.
